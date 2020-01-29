@@ -77,7 +77,7 @@ for문, 함수, def, Moduler한 프로그래밍 맛보기
 ##### 사용 라이브러리: PIL
 ##### 예제: 흑백사진 변환, 크로마키
 
-#### Sample :
+#### Sample : https://github.com/YunaSon/Sample/blob/master/PythonProgramming/3_Python%EC%9C%BC%EB%A1%9C%20IMAGE%ED%8C%8C%EC%9D%BC%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb
 -------------------------------------------------------------------------------------------------------------
 
 
