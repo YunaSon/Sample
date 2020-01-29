@@ -1,21 +1,23 @@
-
-## 1. Python General 
-#### 1) Python은 Interpreter언어이다. 
-#### 2) 배터리 포함: 파이썬 표준 라이브러리
-#### 3) PyPI: PIP, PyPA소개
-#### 4) 에러
-#### 5) PEP8
+# Python Programming
 
 
-## 2-1. Python Basic syntax
-#### 1) 자료형 : string, number, Boolean 
-#### 2) 자료구조 : List, Tuple, Dictionary, Set
-#### 3) 제어구조 : 조건문, 반복문, while, True, 예외처리, 
+### 1. Python General 
+##### 1) Python은 Interpreter언어이다. 
+##### 2) 배터리 포함: 파이썬 표준 라이브러리
+##### 3) PyPI: PIP, PyPA소개
+##### 4) 에러
+##### 5) PEP8
 
 
-## 2-2. Python Basic Syntax
-### 1) 함수
-### 2) Class
+### 2-1. Python Basic syntax
+##### 1) 자료형 : string, number, Boolean 
+##### 2) 자료구조 : List, Tuple, Dictionary, Set
+##### 3) 제어구조 : 조건문, 반복문, while, True, 예외처리, 
+
+
+### 2-2. Python Basic Syntax
+##### 1) 함수
+##### 2) Class
 
 
 ## 3. Python으로 Image파일 다루기
