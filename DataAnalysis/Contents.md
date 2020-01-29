@@ -3,10 +3,13 @@
 
 ### 0) Introduction 
 문제를 정의, 분해, 평가, 결정하는 일련의 workflow에 대해 설명합니다. 
+
 <img width="363" alt="DataAnalysis" src="https://user-images.githubusercontent.com/39859458/73353664-2f77be80-42d7-11ea-962e-11f167176782.png">
+
 ```
 출처: https://twitter.com/pollicyorg/status/1105783656499634176
 ```
+
 Workflow에 대해 적당한 예제가 있다면, 되도록이면 예제를 들어 일련의 DataAnalysis를 설명하며 각 단계별로 설명할 예정입니다. 
 - 문제를 작게 분해해서 생각하고,
 - 가설을 세웁니다. 적절한 가설을 세우기 위해 이론을 검증하고
