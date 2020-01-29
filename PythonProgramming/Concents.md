@@ -22,7 +22,7 @@ PEP8에 소개된 중요 CleanCode에 대해 설명합니다.
 ##### 4) 에러와 디버깅 // IDE (Python Shell, Pycharm, VSCode)
 ##### 5) Syntax, Convension, Expression 그리고 PEP8 
 
-#### Sample :
+#### Sample : https://github.com/YunaSon/Sample/blob/master/PythonProgramming/1_Python_General.ipynb
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ PEP8에 소개된 중요 CleanCode에 대해 설명합니다.
 ##### 2) 자료구조 : List, Tuple, Dictionary, Set
 ##### 3) 제어구조 : 조건문(if), 반복문(for), while, Continue/Break, 예외처리
 
-#### Sample :
+#### Sample : https://github.com/YunaSon/Sample/blob/master/PythonProgramming/1_Python_General.ipynb
 -------------------------------------------------------------------------------------------------------------
 
 
