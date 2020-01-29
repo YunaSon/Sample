@@ -2,7 +2,7 @@
 # Contents
 
 ### 0) Introduction 
-문제를 정의하고, 분해하고 평가하고 결정하는 일련의 workflow에 대해 설명합니다. 
+문제를 정의, 분해, 평가, 결정하는 일련의 workflow에 대해 설명합니다. 
 <img width="363" alt="DataAnalysis" src="https://user-images.githubusercontent.com/39859458/73353664-2f77be80-42d7-11ea-962e-11f167176782.png">
 ```
 출처: https://twitter.com/pollicyorg/status/1105783656499634176
