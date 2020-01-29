@@ -46,7 +46,7 @@ PEP8에 소개된 중요 CleanCode에 대해 설명합니다.
 ##### 2) 자료구조 : List, Tuple, Dictionary, Set
 ##### 3) 제어구조 : 조건문(if), 반복문(for), while, Continue/Break, 예외처리
 
-#### Sample : https://github.com/YunaSon/Sample/blob/master/PythonProgramming/1_Python_General.ipynb
+#### Sample : https://github.com/YunaSon/Sample/blob/master/PythonProgramming/2_Python_Basic_syntax1.ipynb
 -------------------------------------------------------------------------------------------------------------
 
 
