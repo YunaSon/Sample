@@ -1,21 +1,26 @@
 # Sckit-Learn을 활용한 MachineLearnig Basic
+# Contents
 
 ### 1. Sckit-Learn의 Core API
+Sckit-Learn의 철학, 그리고 API에 대해 설명합니다. 
+Sckit-Learn의 공식 문서를 활용합니다. 
+
+
+### 2 ~ 7: 머신러닝의 필수 알고리즘에 대해 예제를 들어 설명합니다. 
 
 ### 2. Classification
-(Identifying which category an object belongs to.)
+#### Sample :
 
 ### 3. Regression
-(Predicting a continuous-valued attribute associated with an object.)
+#### Sample : 
 
 ### 4. Clustering
-(Automatic grouping of similar objects into sets.)
+
 
 ### 5. Dimentionality Reduction
-(Reducing the number of random variables to consider.)
+
 
 ### 6. Model Selection
-(Comparing, validating and choosing parameters and models.)
+
 
 ### 7. Preprocession
-(Feature extraction and normalization.)
