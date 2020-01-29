@@ -16,14 +16,15 @@ Sckit-Learn의 공식 문서를 활용합니다.
 
 Sample: https://github.com/YunaSon/Sample/blob/master/ML_Basics/1_CoreAPI.ipynb
 
+----------------------------------------------------------------------------------------
 
-### 2 ~ 7: 머신러닝의 필수 알고리즘에 대해 예제를 들어 설명합니다. 
+##### (2 ~ 7: 머신러닝의 필수 알고리즘에 대해 예제를 들어 설명합니다. )
 
 ### 2. Classification
 Sample : https://github.com/YunaSon/Sample/blob/master/ML_Basics/2_Classification.ipynb
 
 ### 3. Regression
-Sample : https://github.com/YunaSon/Sample/blob/master/ML_Basics/2_Classification.ipynb
+Sample : https://github.com/YunaSon/Sample/blob/master/ML_Basics/3_Regression.ipynb
 
 ### 4. Clustering
 
