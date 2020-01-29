@@ -2,12 +2,14 @@
 -------------------------------------------------------------------------------------------------------------
 
 ### 1. Python General 
+##### Python의 일반적인 부분을 다룹니다. Interpreter언어와 동적Typing에 의해 변수가 선언됨을 언급하고, 표준 라이브러리가 많아 활용 범위가 매우 넓은 부분을 강조하며, Package와 OpenSorce Community인 PIP와 PyPA를 소개 합니다.
+##### 에러의 종류와 디버깅을 왜 해야하는지 그리고 프로그래밍에서 문법(Syntax)적으로 규약된 부분과 관습(Convention)적인 것 그리고 표현법(Expression)의 차이를 예시를 들어 소개하고 PEP8을 예시로 중요 CleanCode에 대해 설명합니다. 
 
 1) Python은 Interpreter언어 (Compiler와 비교)
 2) 배터리 포함: 파이썬 표준 라이브러리 
 3) PyPI: PIP, PyPA소개
-4) 에러와 디버깅 // Syntax, Convension, Expression
-5) PEP8 
+4) 에러와 디버깅 // IDE (Python Shell, Pycharm, VSCode)
+5) Syntax, Convension, Expression 그리고 PEP8 
 
 -------------------------------------------------------------------------------------------------------------
 
