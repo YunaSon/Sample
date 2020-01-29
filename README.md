@@ -6,7 +6,7 @@ https://github.com/YunaSon/Sample/tree/master/PythonProgramming/Contents.md
 
 
 ### 2. MachineLearning Basic
-https://github.com/YunaSon/Sample/blob/master/MLBasics/Contents.md
+https://github.com/YunaSon/Sample/blob/master/ML_Basics/Contents.md
 
 
 ### 3. DataAnalysis
