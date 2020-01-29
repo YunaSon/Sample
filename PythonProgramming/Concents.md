@@ -88,7 +88,7 @@ Tkinter라이브러리를 활용하여 계산기를 GUI를 만들어 보면서 C
 ```
 
 ##### 사용 라이브러리: Tkinter
-##### 예제: 계산기 만들어 보기 Tkinter
+##### 예제: 계산기 만들어 보
 
 #### Sample : https://github.com/YunaSon/Sample/blob/master/PythonProgramming/4.%20Python%EC%9C%BC%EB%A1%9C%20GUI%ED%8C%8C%EC%9D%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%B3%B4%EA%B8%B0.ipynb
 -------------------------------------------------------------------------------------------------------------
