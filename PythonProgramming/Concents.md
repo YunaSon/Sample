@@ -1,17 +1,16 @@
-# Open-Sorce Project에 참여하는 것을 목표로 한다. 
 
 ## 1. Python General 
-### 1) Python은 Interpreter언어이다. 
-### 2) 배터리 포함: 파이썬 표준 라이브러리
-### 3) PyPI: PIP, PyPA소개
-### 4) 에러의 종류
-### 5) PEP8
+#### 1) Python은 Interpreter언어이다. 
+#### 2) 배터리 포함: 파이썬 표준 라이브러리
+#### 3) PyPI: PIP, PyPA소개
+#### 4) 에러
+#### 5) PEP8
 
 
 ## 2-1. Python Basic syntax
-### 1) 자료형 : string, number, Boolean 
-### 2) 자료구조 : List, Tuple, Dictionary, Set
-### 3) 제어구조 : 조건문, 반복문, while, True, 예외처리, 
+#### 1) 자료형 : string, number, Boolean 
+#### 2) 자료구조 : List, Tuple, Dictionary, Set
+#### 3) 제어구조 : 조건문, 반복문, while, True, 예외처리, 
 
 
 ## 2-2. Python Basic Syntax
