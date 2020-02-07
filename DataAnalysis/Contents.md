@@ -27,6 +27,21 @@ Workflow에 대해 적당한 예제가 있다면, 되도록이면 예제를 들�
 
 #### 위 0번의 예제를 기반으로 1)~7)은 실제 Data를 분석하는데 사용하는 Data Wrangling기법에 대해 주로 다룹니다. 
 #### 즉, Data ETL(Extract, Transform, Load)에 대한 내용이 주 입니다. 
+
+|변경전 목차| 변경 후 목차|
+|:--------|:--------:|
+| Numpy |NumPy 사용법. Data를 행렬로 표현해 보자|
+| Pandas |Pandas 사용법. Data를 Table로 표현해 보자| 
+| Visualization |Matplotlib,Seaborn,D3.js사용법, Data를 시각화 해보자 |
+| CSV, JSON, XML |여러가지 파일 포맷 다루기 (CSV, JSON, XML, Excel, PDF) | 
+| 파일 다루기(file, glob, os, sys) | 파일 조작에 유용한 모듈과 파일 체계화 하기(file, glob, os, sys // shutle, zipfile) |
+| 파일 체계화(Shutle, zipfile) | DataBase로 파일 관리하기 (DB, MySQL다루기) | 
+| WebScrap(BeautifulSoup, Request, Selenium) | Web에서 Data긁어오기(WebScrap, BeautifulSoup, Request, Selenium) |
+| DataBase활용하기, MongoDB | BigData 다루기0 (Bigdata와 관련 환경설정소개 (도커를 이용한 하둡과 스파크 환경설정) | 
+| - | BigData다루기 1 (Spark를 활용하여 data pipeline 설계)| 
+| - | BigData다루기 2 (하둡, 맵리듀스를 활용하한 data pipeline설계) | 
+
+
 ### 1) Numpy
 ### 2) Pandas
 ### 3) Visualsization
