@@ -30,8 +30,8 @@ Workflow에 대해 적당한 예제가 있다면, 되도록이면 예제를 들�
 
 |변경전 목차| 변경 후 목차|
 |:--------|:--------:|
-| Numpy |NumPy 사용법. Data를 행렬로 표현해 보자|
-| Pandas |Pandas 사용법. Data를 Table로 표현해 보자| 
+| Numpy |NumPy 사용법. Data를 행렬로 표현해 보자, Pandas 사용법. Data를 Table로 표현해 보자|
+| Pandas |-| 
 | Visualization |Matplotlib,Seaborn,D3.js사용법, Data를 시각화 해보자 |
 | CSV, JSON, XML |여러가지 파일 포맷 다루기 (CSV, JSON, XML, Excel, PDF) | 
 | 파일 다루기(file, glob, os, sys) | 파일 조작에 유용한 모듈과 파일 체계화 하기(file, glob, os, sys // shutle, zipfile) |
