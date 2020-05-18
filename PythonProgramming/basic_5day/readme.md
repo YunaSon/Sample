@@ -26,6 +26,9 @@ https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/3day/
 ## 4day: 클래스와 OOP(Object Oriented Programming)
 https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/4day/day4_unmarked.ipynb
 
+https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/4day/day4_marked.ipynb
 
 ## 5day: Wrap-Up
 https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/5day/5day_unmarked.ipynb
+
+https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/5day/5day_marked.ipynb
