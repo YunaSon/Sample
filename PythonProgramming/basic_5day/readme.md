@@ -17,6 +17,8 @@ https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/2day/
 
 
 ## 3day: 함수
+https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/3day/%ED%8C%8C%EC%9D%B4%EC%84%A0-%ED%95%A8%EC%88%98.pdf
+
 https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/3day/day3_unmarked.ipynb
 
 
