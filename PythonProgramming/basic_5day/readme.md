@@ -11,6 +11,8 @@ https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/1day/
 ## 2day: 코드 구조
 (*코드 구조에서 함수 부분 언급함.)
 
+https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/2day/2day_unmarked.ipynb
+
 https://github.com/YunaSon/Sample/blob/master/PythonProgramming/basic_5day/2day/2day_marked.ipynb
 
 
