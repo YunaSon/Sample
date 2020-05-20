@@ -1,27 +1,27 @@
 # Plan
 
-## Python General
+## 1. Python General
 
-## Variables and DataType
+## 2. Variables and DataType
 
-## Code Structure
+## 3. Code Structure
 
-## Function
+## 4. Function과 함수형 프로그래밍
 
-## data, file
+## 5. data, file
 
-## sys, os
+## 6. sys, os
 
-## class와 OOP
+## 7. class와 객체지향 
 
-## glob, sys, os, file
+## 8. glob, sys, os, file
 
-## module과 packages 그리고 pip (or conda)
+## 9. module과 packages 그리고 pip (or conda)
 
-## 파이썬 가상환경 설정
+## 10. 파이썬 가상환경 설정
 
-## Numpy, collections
+## 11. Numpy, collections
 
-## Pandas, file
+## 12. Pandas, file
 
-## WrapUp
+## 13. WrapUp
