@@ -1,0 +1,5 @@
+AhnTaeHee,AITeam,3,3,300
+KimYoungJae,Sales,9,7,600
+SonHoMin,Marketing,4,4,350
+ParkYoungA,Design,1,3,320
+LeeEnJae,Development,2,1,200
